@@ -1,2 +1,2 @@
 # -HTML-TABLE
-! [ Built HTML Table] (https://replit.com/@ngididaniel007/HTML-Table#index.html)
+! [ Built HTML Table] (https://codepen.io/ngididaniel007/pen/ExLdyPo)
